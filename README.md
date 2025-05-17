@@ -79,10 +79,6 @@ Contribuições são bem-vindas\! Se você tiver ideias para melhorar o sistema,
 4.  Faça o push para a branch (`git push origin feature/sua-feature`).
 5.  Abra um Pull Request no GitHub.
 
-## 📝 Licença
-
-[Adicione aqui o tipo de licença do seu projeto, por exemplo, MIT License]
-
 ## 📧 Contato
 
 Raphael Henriques - raphael.sl.henriques@gmail.com
