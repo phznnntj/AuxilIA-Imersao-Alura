@@ -1,0 +1,5 @@
+theme.base="dark"
+theme.primaryColor="#8EF9F3"  # Um azul/ciano claro para elementos primários
+theme.secondaryColor="#F08080" # Um rosa/vermelho claro para elementos secundários
+theme.textColor="#FAFAFA"      # Texto branco/cinza claro
+theme.backgroundColor="#1E1E1E"  # Fundo cinza escuro
