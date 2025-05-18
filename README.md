@@ -82,5 +82,5 @@ Contribuições são bem-vindas\! Se você tiver ideias para melhorar o sistema,
 
 ## 📧 Contato
 
-[Raphael Henriques] - [raphael.sl.henriques@gmail.com]
+Raphael Henriques - [raphael.sl.henriques@gmail.com]
 
