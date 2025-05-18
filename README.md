@@ -1,6 +1,6 @@
 # 🤖 AuxilIA - Chat com Agentes para Empreendedores
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://auxilia-imersao-alura-aib3nadbbppudawtraqmzr.streamlit.app) ## 💡 Descrição do Projeto
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://auxilia-imersao-alura-aib3nadbbppudawtraqmzr.streamlit.app) 
 
 O **AuxilIA** é um sistema de chat inovador que utiliza agentes de inteligência artificial (baseados no modelo Gemini do Google) para auxiliar pequenos empreendedores no Brasil. O objetivo principal é fornecer informações relevantes e práticas em diversas áreas cruciais para o sucesso de um negócio, como finanças, operações/regulamentações e marketing/vendas.
 
