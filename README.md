@@ -81,4 +81,8 @@ Contribuições são bem-vindas\! Se você tiver ideias para melhorar o sistema,
 
 ## 📧 Contato
 
+<<<<<<< HEAD
 Raphael Henriques - raphael.sl.henriques@gmail.com
+=======
+Raphael Henriques - raphael.sl.henriques@gmail.com
+>>>>>>> b08653f34b1e912b29da5227cc7bf6ceb3d80ec0
