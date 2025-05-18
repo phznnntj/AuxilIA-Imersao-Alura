@@ -1,5 +1,6 @@
 # 🤖 AuxilIA - Chat com Agentes para Empreendedores
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://auxilia-seu-link-do-streamlit.streamlit.app) ## 💡 Descrição do Projeto
 
 O **AuxilIA** é um sistema de chat inovador que utiliza agentes de inteligência artificial (baseados no modelo Gemini do Google) para auxiliar pequenos empreendedores no Brasil. O objetivo principal é fornecer informações relevantes e práticas em diversas áreas cruciais para o sucesso de um negócio, como finanças, operações/regulamentações e marketing/vendas.
 
@@ -20,7 +21,7 @@ Este projeto visa democratizar o acesso a informações especializadas, permitin
 ## 🚀 Como Utilizar
 
 1.  **Acesse o Aplicativo Online:** Você pode testar o AuxilIA através do link do Streamlit Cloud:
-    [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://auxilia-seu-link-do-streamlit.app) 2.  **Interaja com os Agentes:** Na interface de chat, digite sua pergunta ou consulta relacionada ao seu negócio. O sistema encaminhará sua pergunta aos agentes especializados relevantes e apresentará uma resposta integrada.
+    [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://auxilia-imersao-alura-aib3nadbbppudawtraqmzr.streamlit.app) 2.  **Interaja com os Agentes:** Na interface de chat, digite sua pergunta ou consulta relacionada ao seu negócio. O sistema encaminhará sua pergunta aos agentes especializados relevantes e apresentará uma resposta integrada.
 3.  **Obtenha Insights:** Receba informações e sugestões práticas para te ajudar a tomar decisões informadas e impulsionar o seu empreendimento.
 
 ## ⚙️ Configuração para Desenvolvimento Local (Opcional)
@@ -60,8 +61,6 @@ Se você deseja executar o projeto localmente para desenvolvimento ou contribui�
     ```
 6.  **Acesse no Navegador:** O aplicativo será aberto automaticamente no seu navegador (geralmente em `http://localhost:8501`).
 
-![Vídeo do WhatsApp de 2025-05-17 à(s) 20 52 23_ffcdb472](https://github.com/user-attachments/assets/4977e786-14b6-49ff-9876-c365772a2c54)
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python:** Linguagem de programação principal.
@@ -79,10 +78,9 @@ Contribuições são bem-vindas\! Se você tiver ideias para melhorar o sistema,
 4.  Faça o push para a branch (`git push origin feature/sua-feature`).
 5.  Abra um Pull Request no GitHub.
 
+
+
 ## 📧 Contato
 
-<<<<<<< HEAD
-Raphael Henriques - raphael.sl.henriques@gmail.com
-=======
-Raphael Henriques - raphael.sl.henriques@gmail.com
->>>>>>> b08653f34b1e912b29da5227cc7bf6ceb3d80ec0
+[Raphael Henriques] - [raphael.sl.henriques@gmail.com]
+
