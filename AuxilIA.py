@@ -46,16 +46,20 @@ print("API Key do Google Gemini configurada FORÇADAMENTE a partir da variável 
     #print("API Key do Google Gemini configurada a partir da variável no código.")
 #else:
 #    print("API Key do Google Gemini configurada a partir da variável de ambiente.")
+import streamlit as st
+api_key_to_use = st.secrets.get("GOOGLE_API_KEY")
+print(api_key_to_use)
+# Se não estiver no Secrets (ambiente local), tenta carregar da variável de ambiente
 
 try:
-    genai.configure(api_key=api_key_to_use)
+    genai.configure(api_key=api_key_to_use.value)
 except Exception as e:
     print(f"Erro ao configurar a API Key do Google Gemini: {e}")
-    print("Verifique se a API Key é válida.")
+    print("Verifique se a API Key é válida e foi configurada corretamente.")
     exit()
 
 # Configuração do modelo
-MODEL_ID = "gemini-1.5-flash-latest"
+MODEL_ID = "gemini-2.0-flash"
 
 # Configurações de geração para o modelo Gemini
 generation_config = {
