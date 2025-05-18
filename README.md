@@ -61,6 +61,8 @@ Se você deseja executar o projeto localmente para desenvolvimento ou contribui�
     ```
 6.  **Acesse no Navegador:** O aplicativo será aberto automaticamente no seu navegador (geralmente em `http://localhost:8501`).
 
+![Vídeo do WhatsApp de 2025-05-17 à(s) 20 52 23_ffcdb472](https://github.com/user-attachments/assets/d9d37a3a-2649-4aba-914f-180969d7be54)
+
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python:** Linguagem de programação principal.
